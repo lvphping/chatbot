@@ -23,7 +23,7 @@
     <pattern>DEFAULT</pattern>
     <template>
         <random>
-        <li>كەچۈرۈڭ ، چۈشىنەلمىدىم  ...</li>
+			<li>哈哈 我是lvphp</li>
         </random>
     </template>
 </category>
